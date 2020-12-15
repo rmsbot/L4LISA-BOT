@@ -19,8 +19,8 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
     A187: 'L4LISA-BOT',
-    instagram: 'https://instagram.com/psicyo.lv',
-    nomer: 'wa.me/6282323755174',
+    instagram: 'https://instagram.com/itsmeikyxsec404',
+    nomer: 'wa.me/6281281872699',
     aktif: 'Tergantung Jaringan',
     youtube: 'Valid',
     whatsapp: 'Valid',
